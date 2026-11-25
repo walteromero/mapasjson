@@ -1,2 +1,3 @@
 # mapasjson
-Mapas Json
+Mapas GeoJson
+
